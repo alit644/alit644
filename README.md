@@ -1,13 +1,12 @@
-### Hi there 👋
+###I am a developer with experience creating websites for small and medium businesses. Whether you're trying to win business, list your services, or create a new online store, I can help
+- Speed in performance
+- Manage the entire project from start to finish
+- Attractive, interactive and responsive design
 
 <!--
 **alit644/alit644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-I am a developer with experience creating websites for small and medium businesses. Whether you're trying to win business, list your services, or create a new online store, I can help
-- Speed in performance
-- Manage the entire project from start to finish
-- Attractive, interactive and responsive design
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
