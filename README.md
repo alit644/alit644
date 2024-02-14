@@ -1,4 +1,5 @@
-###I am a developer with experience creating websites for small and medium businesses. Whether you're trying to win business, list your services, or create a new online store, I can help
+I am a developer with experience creating websites for small and medium businesses. Whether you're trying to win business, list your services, or create a new online store, I can help ,
+I am a strong communicator and a collaborative team player and enjoy working in a fast-paced environment. I am also comfortable working independently and taking ownership of projects.
 - Speed in performance
 - Manage the entire project from start to finish
 - Attractive, interactive and responsive design
