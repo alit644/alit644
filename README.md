@@ -4,6 +4,8 @@ I am a strong communicator and a collaborative team player and enjoy working in 
 - Manage the entire project from start to finish
 - Attractive, interactive and responsive design
 
+ [🤹‍♀️ Skills](#section-1)
+
 <!--
 **alit644/alit644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
