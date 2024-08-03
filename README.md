@@ -21,7 +21,7 @@ I am a strong communicator and a collaborative team player and enjoy working in 
      <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="60px"/>
   </div>
 
-  ## Connect with me
+<h2> 🌐 Connect with me </h2>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+905365663918)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alit64432@gmail.com)
