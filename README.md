@@ -10,22 +10,25 @@ I am a strong communicator and a collaborative team player and enjoy working in 
 
 <h2> 👨🏻‍💻 Skills </h2>
 
-  <br/>
-  <div>
-      <img src="https://cdn-icons-png.freepik.com/256/381/381742.png?ga=GA1.1.398310697.1656575498&semt=ais" alt="js" width="60px"/>
-     <img src="https://cdn-icons-png.freepik.com/256/919/919832.png?ga=GA1.1.398310697.1656575498&semt=ais" alt="ts" width="60px"/>
-     <img src="https://cdn-icons-png.freepik.com/256/13101/13101870.png?ga=GA1.1.398310697.1656575498&semt=ais" alt="reactjs" width="60px"/>
-     <img src="https://cdn-icons-png.freepik.com/256/5968/5968358.png?ga=GA1.1.398310697.1656575498&semt=ais" alt="scss" width="60px"/>
-     <img src="https://www.svgrepo.com/show/354274/redux.svg" alt="redux" width="60px"/>
-     <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="60px"/>
-     <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="60px"/>
-  </div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 <h2> 🌐 Connect with me </h2>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+905365663918)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alit64432@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-talib-80593924a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ali.__.ta/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alitalib6)
   <br/>
   <br/>
 <!--
