@@ -1,10 +1,7 @@
 <h1> Hello world! I'm ali 👋 </h1>
 
-I am a developer with experience creating websites for small and medium businesses. Whether you're trying to win business, list your services, or create a new online store, I can help ,
-I am a strong communicator and a collaborative team player and enjoy working in a fast-paced environment. I am also comfortable working independently and taking ownership of projects.
-- Speed in performance
-- Manage the entire project from start to finish
-- Attractive, interactive and responsive design
+Passionate web developer dedicated to creating high-performance, responsive websites and applications for small and medium businesses. I specialize in building engaging websites and e-commerce platforms using React, TypeScript, Supabase, and Strapi, with robust RESTful APIs for seamless integration. I leverage Redux and Zustand for efficient state management, focusing on exceptional user experience and interactive design. I manage projects from start to finish, combining strong communication and collaborative teamwork to deliver outstanding results in fast-paced environments .
+
   <br/>
   <br/>
 
