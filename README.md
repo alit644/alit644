@@ -14,6 +14,7 @@ Passionate web developer dedicated to creating high-performance, responsive webs
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-DF553A?style=for-the-badge&logo=postman&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Strapi](https://img.shields.io/badge/-Strapi-5871F0?logo=strapi&logoColor=white)
 
@@ -26,7 +27,6 @@ Passionate web developer dedicated to creating high-performance, responsive webs
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alit64432@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-talib-80593924a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ali.__.ta/)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alitalib6)
   <br/>
   <br/>
